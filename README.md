@@ -4,7 +4,7 @@
 This is a small, fun birthday website I created using **HTML** and **CSS**. It’s designed to share birthday wishes in a creative and interactive way.
 
 🌐 **Live Demo:**  
-👉 [Check it out on Netlify](https://meek-souffle-47e300.netlify.app/)
+👉 [Check it out on Netlify](https://brithday-greeting.netlify.app/)
 
 ---
 
